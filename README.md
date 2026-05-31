@@ -64,3 +64,5 @@ Archana
 
 This project is created for educational and internship purposes.
 
+<img width="1000" height="745" alt="file_protection" src="https://github.com/user-attachments/assets/b1a7b737-49ee-43f7-880b-10ba27d94f19" />
+
